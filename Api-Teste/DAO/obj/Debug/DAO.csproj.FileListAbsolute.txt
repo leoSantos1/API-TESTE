@@ -1,0 +1,26 @@
+C:\Users\Leo Santos\source\repos\Api-Teste\DAO\bin\Debug\DAO.dll
+C:\Users\Leo Santos\source\repos\Api-Teste\DAO\bin\Debug\DAO.pdb
+C:\Users\Leo Santos\source\repos\Api-Teste\DAO\bin\Debug\CoreHelper.dll
+C:\Users\Leo Santos\source\repos\Api-Teste\DAO\bin\Debug\Dapper.dll
+C:\Users\Leo Santos\source\repos\Api-Teste\DAO\bin\Debug\Model.dll
+C:\Users\Leo Santos\source\repos\Api-Teste\DAO\bin\Debug\CoreHelper.pdb
+C:\Users\Leo Santos\source\repos\Api-Teste\DAO\bin\Debug\Model.pdb
+C:\Users\Leo Santos\source\repos\Api-Teste\DAO\bin\Debug\Dapper.xml
+C:\Users\Leo Santos\source\repos\Api-Teste\DAO\obj\Debug\DAO.csprojAssemblyReference.cache
+C:\Users\Leo Santos\source\repos\Api-Teste\DAO\obj\Debug\DAO.csproj.CoreCompileInputs.cache
+C:\Users\Leo Santos\source\repos\Api-Teste\DAO\obj\Debug\DAO.csproj.CopyComplete
+C:\Users\Leo Santos\source\repos\Api-Teste\DAO\obj\Debug\DAO.dll
+C:\Users\Leo Santos\source\repos\Api-Teste\DAO\obj\Debug\DAO.pdb
+C:\API-TESTE\Api-Teste\DAO\bin\Debug\DAO.dll
+C:\API-TESTE\Api-Teste\DAO\bin\Debug\DAO.pdb
+C:\API-TESTE\Api-Teste\DAO\bin\Debug\CoreHelper.dll
+C:\API-TESTE\Api-Teste\DAO\bin\Debug\Dapper.dll
+C:\API-TESTE\Api-Teste\DAO\bin\Debug\Model.dll
+C:\API-TESTE\Api-Teste\DAO\bin\Debug\CoreHelper.pdb
+C:\API-TESTE\Api-Teste\DAO\bin\Debug\Model.pdb
+C:\API-TESTE\Api-Teste\DAO\bin\Debug\Dapper.xml
+C:\API-TESTE\Api-Teste\DAO\obj\Debug\DAO.csprojAssemblyReference.cache
+C:\API-TESTE\Api-Teste\DAO\obj\Debug\DAO.csproj.CoreCompileInputs.cache
+C:\API-TESTE\Api-Teste\DAO\obj\Debug\DAO.csproj.CopyComplete
+C:\API-TESTE\Api-Teste\DAO\obj\Debug\DAO.dll
+C:\API-TESTE\Api-Teste\DAO\obj\Debug\DAO.pdb

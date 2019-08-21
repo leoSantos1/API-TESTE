@@ -1,0 +1,30 @@
+C:\Users\Leo Santos\source\repos\Api-Teste\Logic\bin\Debug\Logic.dll
+C:\Users\Leo Santos\source\repos\Api-Teste\Logic\bin\Debug\Logic.pdb
+C:\Users\Leo Santos\source\repos\Api-Teste\Logic\bin\Debug\CoreHelper.dll
+C:\Users\Leo Santos\source\repos\Api-Teste\Logic\bin\Debug\DAO.dll
+C:\Users\Leo Santos\source\repos\Api-Teste\Logic\bin\Debug\Model.dll
+C:\Users\Leo Santos\source\repos\Api-Teste\Logic\bin\Debug\Dapper.dll
+C:\Users\Leo Santos\source\repos\Api-Teste\Logic\bin\Debug\CoreHelper.pdb
+C:\Users\Leo Santos\source\repos\Api-Teste\Logic\bin\Debug\DAO.pdb
+C:\Users\Leo Santos\source\repos\Api-Teste\Logic\bin\Debug\Model.pdb
+C:\Users\Leo Santos\source\repos\Api-Teste\Logic\bin\Debug\Dapper.xml
+C:\Users\Leo Santos\source\repos\Api-Teste\Logic\obj\Debug\Logic.csprojAssemblyReference.cache
+C:\Users\Leo Santos\source\repos\Api-Teste\Logic\obj\Debug\Logic.csproj.CoreCompileInputs.cache
+C:\Users\Leo Santos\source\repos\Api-Teste\Logic\obj\Debug\Logic.csproj.CopyComplete
+C:\Users\Leo Santos\source\repos\Api-Teste\Logic\obj\Debug\Logic.dll
+C:\Users\Leo Santos\source\repos\Api-Teste\Logic\obj\Debug\Logic.pdb
+C:\API-TESTE\Api-Teste\Logic\bin\Debug\Logic.dll
+C:\API-TESTE\Api-Teste\Logic\bin\Debug\Logic.pdb
+C:\API-TESTE\Api-Teste\Logic\bin\Debug\CoreHelper.dll
+C:\API-TESTE\Api-Teste\Logic\bin\Debug\DAO.dll
+C:\API-TESTE\Api-Teste\Logic\bin\Debug\Model.dll
+C:\API-TESTE\Api-Teste\Logic\bin\Debug\Dapper.dll
+C:\API-TESTE\Api-Teste\Logic\bin\Debug\CoreHelper.pdb
+C:\API-TESTE\Api-Teste\Logic\bin\Debug\DAO.pdb
+C:\API-TESTE\Api-Teste\Logic\bin\Debug\Model.pdb
+C:\API-TESTE\Api-Teste\Logic\bin\Debug\Dapper.xml
+C:\API-TESTE\Api-Teste\Logic\obj\Debug\Logic.csprojAssemblyReference.cache
+C:\API-TESTE\Api-Teste\Logic\obj\Debug\Logic.csproj.CoreCompileInputs.cache
+C:\API-TESTE\Api-Teste\Logic\obj\Debug\Logic.csproj.CopyComplete
+C:\API-TESTE\Api-Teste\Logic\obj\Debug\Logic.dll
+C:\API-TESTE\Api-Teste\Logic\obj\Debug\Logic.pdb

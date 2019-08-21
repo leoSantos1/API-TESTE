@@ -1,0 +1,153 @@
+C:\Users\Leo Santos\source\repos\Api-Teste\Api-Teste\bin\Api-Teste.dll.config
+C:\Users\Leo Santos\source\repos\Api-Teste\Api-Teste\bin\Api-Teste.dll
+C:\Users\Leo Santos\source\repos\Api-Teste\Api-Teste\bin\Api-Teste.pdb
+C:\Users\Leo Santos\source\repos\Api-Teste\Api-Teste\bin\roslyn\csc.exe
+C:\Users\Leo Santos\source\repos\Api-Teste\Api-Teste\bin\roslyn\csc.exe.config
+C:\Users\Leo Santos\source\repos\Api-Teste\Api-Teste\bin\roslyn\csc.rsp
+C:\Users\Leo Santos\source\repos\Api-Teste\Api-Teste\bin\roslyn\csi.exe
+C:\Users\Leo Santos\source\repos\Api-Teste\Api-Teste\bin\roslyn\csi.exe.config
+C:\Users\Leo Santos\source\repos\Api-Teste\Api-Teste\bin\roslyn\csi.rsp
+C:\Users\Leo Santos\source\repos\Api-Teste\Api-Teste\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Leo Santos\source\repos\Api-Teste\Api-Teste\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Leo Santos\source\repos\Api-Teste\Api-Teste\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Leo Santos\source\repos\Api-Teste\Api-Teste\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Leo Santos\source\repos\Api-Teste\Api-Teste\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Leo Santos\source\repos\Api-Teste\Api-Teste\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Leo Santos\source\repos\Api-Teste\Api-Teste\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Leo Santos\source\repos\Api-Teste\Api-Teste\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Leo Santos\source\repos\Api-Teste\Api-Teste\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Leo Santos\source\repos\Api-Teste\Api-Teste\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Leo Santos\source\repos\Api-Teste\Api-Teste\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Leo Santos\source\repos\Api-Teste\Api-Teste\bin\roslyn\System.AppContext.dll
+C:\Users\Leo Santos\source\repos\Api-Teste\Api-Teste\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Leo Santos\source\repos\Api-Teste\Api-Teste\bin\roslyn\System.Console.dll
+C:\Users\Leo Santos\source\repos\Api-Teste\Api-Teste\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Leo Santos\source\repos\Api-Teste\Api-Teste\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Leo Santos\source\repos\Api-Teste\Api-Teste\bin\roslyn\System.IO.Compression.dll
+C:\Users\Leo Santos\source\repos\Api-Teste\Api-Teste\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Leo Santos\source\repos\Api-Teste\Api-Teste\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Leo Santos\source\repos\Api-Teste\Api-Teste\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\Leo Santos\source\repos\Api-Teste\Api-Teste\bin\roslyn\System.IO.Pipes.dll
+C:\Users\Leo Santos\source\repos\Api-Teste\Api-Teste\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Leo Santos\source\repos\Api-Teste\Api-Teste\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\Leo Santos\source\repos\Api-Teste\Api-Teste\bin\roslyn\System.Security.Claims.dll
+C:\Users\Leo Santos\source\repos\Api-Teste\Api-Teste\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Leo Santos\source\repos\Api-Teste\Api-Teste\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Leo Santos\source\repos\Api-Teste\Api-Teste\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Leo Santos\source\repos\Api-Teste\Api-Teste\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Leo Santos\source\repos\Api-Teste\Api-Teste\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\Leo Santos\source\repos\Api-Teste\Api-Teste\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Leo Santos\source\repos\Api-Teste\Api-Teste\bin\roslyn\System.ValueTuple.dll
+C:\Users\Leo Santos\source\repos\Api-Teste\Api-Teste\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Leo Santos\source\repos\Api-Teste\Api-Teste\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Leo Santos\source\repos\Api-Teste\Api-Teste\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Leo Santos\source\repos\Api-Teste\Api-Teste\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Leo Santos\source\repos\Api-Teste\Api-Teste\bin\roslyn\vbc.exe
+C:\Users\Leo Santos\source\repos\Api-Teste\Api-Teste\bin\roslyn\vbc.exe.config
+C:\Users\Leo Santos\source\repos\Api-Teste\Api-Teste\bin\roslyn\vbc.rsp
+C:\Users\Leo Santos\source\repos\Api-Teste\Api-Teste\bin\roslyn\VBCSCompiler.exe
+C:\Users\Leo Santos\source\repos\Api-Teste\Api-Teste\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Leo Santos\source\repos\Api-Teste\Api-Teste\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Leo Santos\source\repos\Api-Teste\Api-Teste\bin\Newtonsoft.Json.dll
+C:\Users\Leo Santos\source\repos\Api-Teste\Api-Teste\bin\System.Net.Http.Formatting.dll
+C:\Users\Leo Santos\source\repos\Api-Teste\Api-Teste\bin\System.Web.Http.dll
+C:\Users\Leo Santos\source\repos\Api-Teste\Api-Teste\bin\System.Web.Http.WebHost.dll
+C:\Users\Leo Santos\source\repos\Api-Teste\Api-Teste\bin\Newtonsoft.Json.xml
+C:\Users\Leo Santos\source\repos\Api-Teste\Api-Teste\bin\System.Net.Http.Formatting.xml
+C:\Users\Leo Santos\source\repos\Api-Teste\Api-Teste\bin\System.Web.Http.xml
+C:\Users\Leo Santos\source\repos\Api-Teste\Api-Teste\bin\System.Web.Http.WebHost.xml
+C:\Users\Leo Santos\source\repos\Api-Teste\Api-Teste\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Leo Santos\source\repos\Api-Teste\Api-Teste\obj\Debug\Api-Teste.csprojAssemblyReference.cache
+C:\Users\Leo Santos\source\repos\Api-Teste\Api-Teste\obj\Debug\Api-Teste.csproj.CoreCompileInputs.cache
+C:\Users\Leo Santos\source\repos\Api-Teste\Api-Teste\obj\Debug\Api-Teste.csproj.CopyComplete
+C:\Users\Leo Santos\source\repos\Api-Teste\Api-Teste\obj\Debug\Api-Teste.dll
+C:\Users\Leo Santos\source\repos\Api-Teste\Api-Teste\obj\Debug\Api-Teste.pdb
+C:\Users\Leo Santos\source\repos\Api-Teste\Api-Teste\bin\CoreHelper.dll
+C:\Users\Leo Santos\source\repos\Api-Teste\Api-Teste\bin\Dapper.dll
+C:\Users\Leo Santos\source\repos\Api-Teste\Api-Teste\bin\Logic.dll
+C:\Users\Leo Santos\source\repos\Api-Teste\Api-Teste\bin\Model.dll
+C:\Users\Leo Santos\source\repos\Api-Teste\Api-Teste\bin\DAO.dll
+C:\Users\Leo Santos\source\repos\Api-Teste\Api-Teste\bin\CoreHelper.pdb
+C:\Users\Leo Santos\source\repos\Api-Teste\Api-Teste\bin\Logic.pdb
+C:\Users\Leo Santos\source\repos\Api-Teste\Api-Teste\bin\Model.pdb
+C:\Users\Leo Santos\source\repos\Api-Teste\Api-Teste\bin\Dapper.xml
+C:\Users\Leo Santos\source\repos\Api-Teste\Api-Teste\bin\DAO.pdb
+C:\API-TESTE\Api-Teste\Api-Teste\bin\Api-Teste.dll.config
+C:\API-TESTE\Api-Teste\Api-Teste\bin\Api-Teste.dll
+C:\API-TESTE\Api-Teste\Api-Teste\bin\Api-Teste.pdb
+C:\API-TESTE\Api-Teste\Api-Teste\bin\roslyn\csc.exe
+C:\API-TESTE\Api-Teste\Api-Teste\bin\roslyn\csc.exe.config
+C:\API-TESTE\Api-Teste\Api-Teste\bin\roslyn\csc.rsp
+C:\API-TESTE\Api-Teste\Api-Teste\bin\roslyn\csi.exe
+C:\API-TESTE\Api-Teste\Api-Teste\bin\roslyn\csi.exe.config
+C:\API-TESTE\Api-Teste\Api-Teste\bin\roslyn\csi.rsp
+C:\API-TESTE\Api-Teste\Api-Teste\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\API-TESTE\Api-Teste\Api-Teste\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\API-TESTE\Api-Teste\Api-Teste\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\API-TESTE\Api-Teste\Api-Teste\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\API-TESTE\Api-Teste\Api-Teste\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\API-TESTE\Api-Teste\Api-Teste\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\API-TESTE\Api-Teste\Api-Teste\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\API-TESTE\Api-Teste\Api-Teste\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\API-TESTE\Api-Teste\Api-Teste\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\API-TESTE\Api-Teste\Api-Teste\bin\roslyn\Microsoft.Managed.Core.targets
+C:\API-TESTE\Api-Teste\Api-Teste\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\API-TESTE\Api-Teste\Api-Teste\bin\roslyn\System.AppContext.dll
+C:\API-TESTE\Api-Teste\Api-Teste\bin\roslyn\System.Collections.Immutable.dll
+C:\API-TESTE\Api-Teste\Api-Teste\bin\roslyn\System.Console.dll
+C:\API-TESTE\Api-Teste\Api-Teste\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\API-TESTE\Api-Teste\Api-Teste\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\API-TESTE\Api-Teste\Api-Teste\bin\roslyn\System.IO.Compression.dll
+C:\API-TESTE\Api-Teste\Api-Teste\bin\roslyn\System.IO.FileSystem.dll
+C:\API-TESTE\Api-Teste\Api-Teste\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\API-TESTE\Api-Teste\Api-Teste\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\API-TESTE\Api-Teste\Api-Teste\bin\roslyn\System.IO.Pipes.dll
+C:\API-TESTE\Api-Teste\Api-Teste\bin\roslyn\System.Reflection.Metadata.dll
+C:\API-TESTE\Api-Teste\Api-Teste\bin\roslyn\System.Security.AccessControl.dll
+C:\API-TESTE\Api-Teste\Api-Teste\bin\roslyn\System.Security.Claims.dll
+C:\API-TESTE\Api-Teste\Api-Teste\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\API-TESTE\Api-Teste\Api-Teste\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\API-TESTE\Api-Teste\Api-Teste\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\API-TESTE\Api-Teste\Api-Teste\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\API-TESTE\Api-Teste\Api-Teste\bin\roslyn\System.Security.Principal.Windows.dll
+C:\API-TESTE\Api-Teste\Api-Teste\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\API-TESTE\Api-Teste\Api-Teste\bin\roslyn\System.ValueTuple.dll
+C:\API-TESTE\Api-Teste\Api-Teste\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\API-TESTE\Api-Teste\Api-Teste\bin\roslyn\System.Xml.XmlDocument.dll
+C:\API-TESTE\Api-Teste\Api-Teste\bin\roslyn\System.Xml.XPath.dll
+C:\API-TESTE\Api-Teste\Api-Teste\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\API-TESTE\Api-Teste\Api-Teste\bin\roslyn\vbc.exe
+C:\API-TESTE\Api-Teste\Api-Teste\bin\roslyn\vbc.exe.config
+C:\API-TESTE\Api-Teste\Api-Teste\bin\roslyn\vbc.rsp
+C:\API-TESTE\Api-Teste\Api-Teste\bin\roslyn\VBCSCompiler.exe
+C:\API-TESTE\Api-Teste\Api-Teste\bin\roslyn\VBCSCompiler.exe.config
+C:\API-TESTE\Api-Teste\Api-Teste\bin\CoreHelper.dll
+C:\API-TESTE\Api-Teste\Api-Teste\bin\Dapper.dll
+C:\API-TESTE\Api-Teste\Api-Teste\bin\Logic.dll
+C:\API-TESTE\Api-Teste\Api-Teste\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\API-TESTE\Api-Teste\Api-Teste\bin\Model.dll
+C:\API-TESTE\Api-Teste\Api-Teste\bin\Newtonsoft.Json.dll
+C:\API-TESTE\Api-Teste\Api-Teste\bin\System.Net.Http.Formatting.dll
+C:\API-TESTE\Api-Teste\Api-Teste\bin\System.Web.Http.dll
+C:\API-TESTE\Api-Teste\Api-Teste\bin\System.Web.Http.WebHost.dll
+C:\API-TESTE\Api-Teste\Api-Teste\bin\DAO.dll
+C:\API-TESTE\Api-Teste\Api-Teste\bin\CoreHelper.pdb
+C:\API-TESTE\Api-Teste\Api-Teste\bin\Logic.pdb
+C:\API-TESTE\Api-Teste\Api-Teste\bin\Model.pdb
+C:\API-TESTE\Api-Teste\Api-Teste\bin\Dapper.xml
+C:\API-TESTE\Api-Teste\Api-Teste\bin\Newtonsoft.Json.xml
+C:\API-TESTE\Api-Teste\Api-Teste\bin\System.Net.Http.Formatting.xml
+C:\API-TESTE\Api-Teste\Api-Teste\bin\System.Web.Http.xml
+C:\API-TESTE\Api-Teste\Api-Teste\bin\System.Web.Http.WebHost.xml
+C:\API-TESTE\Api-Teste\Api-Teste\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\API-TESTE\Api-Teste\Api-Teste\bin\DAO.pdb
+C:\API-TESTE\Api-Teste\Api-Teste\obj\Debug\Api-Teste.csprojAssemblyReference.cache
+C:\API-TESTE\Api-Teste\Api-Teste\obj\Debug\Api-Teste.csproj.CoreCompileInputs.cache
+C:\API-TESTE\Api-Teste\Api-Teste\obj\Debug\Api-Teste.csproj.CopyComplete
+C:\API-TESTE\Api-Teste\Api-Teste\obj\Debug\Api-Teste.dll
+C:\API-TESTE\Api-Teste\Api-Teste\obj\Debug\Api-Teste.pdb
+C:\API-TESTE\Api-Teste\Api-Teste\bin\System.Net.Http.dll
+C:\API-TESTE\Api-Teste\Api-Teste\bin\System.Security.Cryptography.Algorithms.dll
+C:\API-TESTE\Api-Teste\Api-Teste\bin\System.Security.Cryptography.Encoding.dll
+C:\API-TESTE\Api-Teste\Api-Teste\bin\System.Security.Cryptography.Primitives.dll
+C:\API-TESTE\Api-Teste\Api-Teste\bin\System.Security.Cryptography.X509Certificates.dll

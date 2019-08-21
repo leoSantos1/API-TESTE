@@ -1,0 +1,63 @@
+﻿@model Model.Configuration
+@{
+    ViewBag.Title = "Cadastro das configurações";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h1>Cadastro das configurações</h1>
+@using (Html.BeginForm("Create", "Configuration", Model, FormMethod.Post, new { id = "form1", autocomplete = "off" }))
+{
+    @Html.AntiForgeryToken()
+
+    <div class="form-horizontal">
+        <hr />
+        @Html.ValidationSummary(true, "", new { @class = "text-danger" })
+        <div class="form-group">
+            @Html.LabelFor(model => model.Email, htmlAttributes: new { @class = "control-label col-md-2" })
+            <div class="col-md-10">
+                @Html.EditorFor(model => model.Email, new { htmlAttributes = new { @class = "form-control" } })
+                @Html.ValidationMessageFor(model => model.Email, "", new { @class = "text-danger" })
+            </div>
+        </div>
+        @Html.ValidationSummary(true, "", new { @class = "text-danger" })
+        <div class="form-group">
+            @Html.LabelFor(model => model.TextoEmail, htmlAttributes: new { @class = "control-label col-md-2" })
+            <div class="col-md-10">
+                @Html.TextAreaFor(model => model.TextoEmail, new { @class = "form-control", @placeholder = "Informe em conjunto com o texto as tags (nome, idade, telefone, e-mail) Ex: {nome}", @rows = "4" })
+                @Html.ValidationMessageFor(model => model.TextoEmail, "", new { @class = "text-danger" })
+            </div>
+        </div>
+        <div class="form-group">
+            @Html.LabelFor(model => model.IdadeIntegracao, htmlAttributes: new { @class = "control-label col-md-2" })
+            <div class="col-md-10">
+                @Html.EditorFor(model => model.IdadeIntegracao, new { htmlAttributes = new { @class = "form-control" } })
+                @Html.ValidationMessageFor(model => model.IdadeIntegracao, "", new { @class = "text-danger" })
+            </div>
+        </div>
+
+        <div class="form-group">
+            @Html.LabelFor(model => model.IdadeEmail, htmlAttributes: new { @class = "control-label col-md-2" })
+            <div class="col-md-10">
+                @Html.EditorFor(model => model.IdadeEmail, new { htmlAttributes = new { @class = "form-control" } })
+                @Html.ValidationMessageFor(model => model.IdadeEmail, "", new { @class = "text-danger" })
+            </div>
+        </div>
+
+        <div class="form-group">
+            <div class="col-md-offset-2 col-md-10">
+                <input type="submit" value="Criar configuração" class="btn btn-default" />
+            </div>
+        </div>
+    </div>
+}
+@section Scripts {
+
+    @Scripts.Render("~/bundles/jqueryval")
+    <script>
+        @{
+            if (!string.IsNullOrEmpty(ViewBag.error)) {
+                @:alert(@ViewBag.error);
+             }
+            }
+    </script>
+}

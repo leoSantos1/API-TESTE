@@ -1,0 +1,12 @@
+C:\Users\Leo Santos\source\repos\Api-Teste\CoreHelper\bin\Debug\CoreHelper.dll
+C:\Users\Leo Santos\source\repos\Api-Teste\CoreHelper\bin\Debug\CoreHelper.pdb
+C:\Users\Leo Santos\source\repos\Api-Teste\CoreHelper\obj\Debug\CoreHelper.csprojAssemblyReference.cache
+C:\Users\Leo Santos\source\repos\Api-Teste\CoreHelper\obj\Debug\CoreHelper.csproj.CoreCompileInputs.cache
+C:\Users\Leo Santos\source\repos\Api-Teste\CoreHelper\obj\Debug\CoreHelper.dll
+C:\Users\Leo Santos\source\repos\Api-Teste\CoreHelper\obj\Debug\CoreHelper.pdb
+C:\API-TESTE\Api-Teste\CoreHelper\bin\Debug\CoreHelper.dll
+C:\API-TESTE\Api-Teste\CoreHelper\bin\Debug\CoreHelper.pdb
+C:\API-TESTE\Api-Teste\CoreHelper\obj\Debug\CoreHelper.csproj.CoreCompileInputs.cache
+C:\API-TESTE\Api-Teste\CoreHelper\obj\Debug\CoreHelper.dll
+C:\API-TESTE\Api-Teste\CoreHelper\obj\Debug\CoreHelper.pdb
+C:\API-TESTE\Api-Teste\CoreHelper\obj\Debug\CoreHelper.csprojAssemblyReference.cache
