@@ -11,3 +11,17 @@ Como você resolveu/resolveria problemas de rastreabilidade na aplicação?
 Neste teste não consegui me aprofundar neste ponto, mas resolveria buscando entender o problema realizar um diagrama verificar ideias de outras pessoas e então começar a desenvolver
 Como você garantiu a qualidade da sua aplicação?
 Neste ponto não pude ser muito criterioso, precisava entregar algo rsrs
+
+
+Utilização
+
+Iniciar um site no iis apontando para a pasta da API => Api-Teste
+Iniciar um site no iis apontando para a pasta do site => Configuration
+
+O site de configuração de algumas funcionalidades da API
+A api em sí para os inserts e consultas
+
+Segue junto uma base de dados .mdf com a estrutura
+No arquivo web.config adicionara a tag DBConnection com o valor da connection string
+
+No arquivo web.config existem configurações para o envio do email email, senha etc...
